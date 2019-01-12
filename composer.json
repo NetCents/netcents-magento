@@ -1,5 +1,5 @@
 {
-  "name": "netcents/merchant",
+  "name": "netcentstechnologyinc/merchant",
   "description": "NetCents Magento 2",
   "repositories": [
     { "type": "composer", "url": "https://packagist.org" },
